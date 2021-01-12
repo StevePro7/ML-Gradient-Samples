@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# https://stackoverflow.com/questions/11968531/what-to-gitignore-from-the-idea-folder
+/**/.idea/*
+
 # User-specific files
 *.rsuser
 *.suo
