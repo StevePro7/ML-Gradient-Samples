@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSVM", "LinearSVM\Line
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResNetBlock", "ResNetBlock\ResNetBlock.csproj", "{84679108-B0D0-4014-B1BA-22E38CE0B92E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApproximation", "SimpleApproximation\SimpleApproximation.csproj", "{63A464FE-727B-488A-8AB5-945F9FE2D905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{84679108-B0D0-4014-B1BA-22E38CE0B92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84679108-B0D0-4014-B1BA-22E38CE0B92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84679108-B0D0-4014-B1BA-22E38CE0B92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A464FE-727B-488A-8AB5-945F9FE2D905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A464FE-727B-488A-8AB5-945F9FE2D905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A464FE-727B-488A-8AB5-945F9FE2D905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A464FE-727B-488A-8AB5-945F9FE2D905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
